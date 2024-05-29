@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myimage
-        image: dhivya2409/capstone-project1:26
+        image: dhivya2409/capstone-project1:27
         ports:
         - containerPort: 80    
